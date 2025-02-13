@@ -6,4 +6,4 @@ This is where I will store links to pages for tasks.
 
 For more details about the tasks, please visit the following link:
 
-### [CSS Elzero Practice Tasks](https://github.com/AbdalrahmanEmara/CSS-Elzero-Practice/tree/main/Tasks)
+### [CSS Elzero Practice Tasks](https://github.com/AbdalrahmanEmara/IEEE)
